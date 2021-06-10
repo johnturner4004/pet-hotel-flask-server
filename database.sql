@@ -1,3 +1,5 @@
+-- Database = pet-hotel
+
 CREATE TABLE "owner"(
 	"id" SERIAL PRIMARY KEY,
 	"name" VARCHAR(42),
